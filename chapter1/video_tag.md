@@ -6,7 +6,7 @@ In the dark age of video streaming, consumers will use dedicated software such a
 Februry 28 2007, [Web Hypertext Application Technology Working Group (WHATWG)](https://whatwg.org/) mailing list a [message] (https://web.archive.org/web/20070312050749/https://lists.whatwg.org/pipermail/whatwg-whatwg.org/2007-February/009702.html) from Anne van Kesteren, describe to the world a new API that could be an equivalent to the `Audio()` object for video playback. This new `<video>` tag would be used like the `<image>` tag to reserve space on a page and behave like the `Audio()` object in term of possible actions. It was the birth of the `<video>` tag.
 The same day a demo show to the world how it could look like to play video without the need of plugins in a web browser.
 
-[![Video embedded in Opera browser alpha by Hakon Wiwm Lie](http://img.youtube.com/vi/hUqC1URVyt/0.jpg)](http://www.youtube.com/watch?v=hUqC1URVyt)
+[![Video embedded in Opera browser alpha by Hakon Wiwm Lie](http://img.youtube.com/vi/hUqC1URVyt/0.jpg)](http://www.youtube.com/watch?v=hUqC1URVytk)
 
 The `<video>` tag is accepted to be part of the HTML5 specification released on 28 October 2014.
 
