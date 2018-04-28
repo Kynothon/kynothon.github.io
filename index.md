@@ -1,7 +1,7 @@
 # Kynothon
 
-## Chapter 0 - Getting the tools
-## Chapter 1 - Video Streaming 
+## [Chapter 0](chapter0/index.md)
+## [Chapter 1](chapter1/index.md)
 ## Chapter 2 
 
 ## Projets
