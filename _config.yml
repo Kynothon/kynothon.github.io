@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme
 
 title: Kynothon
-description: Moving images that make sense 
+description: Serverless video processing
 
 show_downloads: false
